@@ -106,8 +106,8 @@ function loadEnd(sessao) {
 function limparInputCadastrar(){
     document.getElementById('nome').value = ''
     document.getElementById('tom').value = ''
-    const radios = document.querySelectorAll('input[type="radio"]');  
-    radios.forEach(radio => radio.checked = false);
+    //const radios = document.querySelectorAll('input[type="radio"]');  
+    //radios.forEach(radio => radio.checked = false);
 }
 
 const btnCadastrarSection = document.getElementById('btnCadastrar')
