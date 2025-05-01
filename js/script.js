@@ -48,7 +48,7 @@ async function excluirMusica(id) {
   return await res.json();
 }
 
-window.addEventListener('load', ()=>{
+window.addEventListener('load', async ()=>{
     document.body.classList.add('load')
   
     loadStart('sectionLista')
