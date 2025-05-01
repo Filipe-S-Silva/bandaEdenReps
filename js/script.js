@@ -50,6 +50,15 @@ async function excluirMusica(id) {
 
 window.addEventListener('load', ()=>{
     document.body.classList.add('load')
+  
+    loadStart('sectionLista')
+    try {
+      await carregarMusicas()
+    } catch {
+      alert('Erro busca reinicie')
+    } finally {
+      loadEnd('sectionLista')
+    }
 })
 
 //pega os inputs do primeiro html
