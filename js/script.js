@@ -347,3 +347,8 @@ btnCadastrarSection.addEventListener('click', async ()=>{
     
 
   })
+
+
+
+
+//Filipe_Dev7 passou aqui tb
