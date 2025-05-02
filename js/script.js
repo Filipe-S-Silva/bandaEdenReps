@@ -357,5 +357,17 @@ btnCadastrarSection.addEventListener('click', async ()=>{
 
 
 
+/*
+   ==============================
+   |   Desenvolvido por Filipe  |
+   |  github.com/FILIPE-S-SILVA |
+   ==============================
+*/
+
+
+
+
+
+
 
 //Filipe_Dev7 passou aqui tb
