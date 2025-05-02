@@ -1,6 +1,13 @@
 const linkPrincipal = 'https://eden20.vercel.app/'
 // const linkPrincipal = 'http://localhost:3000/'
 
+/*
+   ==============================
+   |   Desenvolvido por Filipe  |
+   |  github.com/FILIPE-S-SILVA |
+   ==============================
+*/
+
 async function cadastrarMusica(nome, tom, data, tipo, vocal) {
   const res = await fetch(`${linkPrincipal}musicas`, {
     method: 'POST',
