@@ -1,3 +1,12 @@
+/*
+   ==============================
+   |   Desenvolvido por Filipe  |
+   |  github.com/FILIPE-S-SILVA |
+   ==============================
+*/
+
+
+
 const btnCadastrar = document.getElementById('btnNovaMusica')
 const btnListar = document.getElementById('listaMusicas')
 
