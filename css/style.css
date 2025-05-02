@@ -453,6 +453,24 @@ button.on{
     }
 }
 
+footer{
+    width: 100vw;
+    background: var(--div);
+    border-top: 3px solid var(--pretoFake);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+  } 
+
+  footer  #dev{
+    margin: .2%;
+    max-width: 100px;
+    border-radius: 20px;
+  }
+
+
 ::-webkit-scrollbar {
     width: 14px;
     background: var(--brancoFake);
@@ -463,6 +481,18 @@ button.on{
     border-radius: 10px;
     border: 2px solid var(--brancoFake);
 }
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /*
