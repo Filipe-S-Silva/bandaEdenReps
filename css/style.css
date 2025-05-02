@@ -180,7 +180,7 @@ button.on{
 #musicas {
     margin: auto;
     margin-top: 7%;
-    margin-bottom: 2%;
+    margin-bottom: 5%;
     width: 100%;
     transition: .5s;
 }
@@ -466,7 +466,7 @@ footer{
 
   footer  #dev{
     margin: .2%;
-    max-width: 100px;
+    max-width: 70px;
     border-radius: 20px;
   }
 
