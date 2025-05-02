@@ -31,3 +31,6 @@ btnCadastrar.addEventListener('click', ()=>{
 btnListar.addEventListener('click', ()=>{
     musicOn()
 })
+
+
+//Filipe_Dev7 passou aqui
